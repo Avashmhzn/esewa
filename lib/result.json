@@ -1,0 +1,17 @@
+{
+  "productId": "1d71jd81",
+  "productName": "Android SDK Payment",
+  "totalAmount": "1000.0",
+  "environment": "test",
+  "code": "00",
+  "merchantName": "Android SDK Payment",
+  "message": {
+    "technicalSuccessMessage": "Your transaction has been completed.",
+    "successMessage": "Your transaction has been completed."
+  },
+  "transactionDetails": {
+    "status": "COMPLETE",
+    "referenceId": "0005JZ9",
+    "date": "Sat May 20 06:52:58 NPT 2023"
+  }
+}
